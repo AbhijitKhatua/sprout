@@ -6,7 +6,7 @@ const poppins = Poppins({  weight: ['100', '200', '300', '400', '500'], style: [
 
 export const metadata: Metadata = {
   title: "sprout",
-  description: "Grow your garden know your garden.",
+  description: "Know your garden grow your garden.",
 };
 
 export default function RootLayout({
