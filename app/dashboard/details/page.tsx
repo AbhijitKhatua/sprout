@@ -8,8 +8,8 @@ export default function Details() {
         <Image
           className="rounded-md border border-slate-300 bg-cover"
           src="https://cdn.pixabay.com/photo/2022/09/15/17/10/artichoke-7456876_1280.jpg"
-          height={200}
-          width={500}
+          height={300}
+          width={600}
           alt="artichoke"
         />
         <div className="flex  flex-col gap-4">
